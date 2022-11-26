@@ -4,8 +4,32 @@
 .contenedor{
     display: relative;
     height: 600px;
-    width: 1200px;
+    width: 1150px;
     background-color: rgb(50, 100, 101);
-    margin: 10%;
-    margin-bottom: 10%;
+    margin-top: 3%;
+    margin-left: 5%;
+}
+.jugador1{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    background-color: burlywood;
+    margin-top: 12%;
+    margin-left: 12%;
+}
+.jugador2{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    background-color: burlywood;
+    margin-top: 12%;
+    margin-left: 50%;
+}
+.versus{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 15%;
+    margin-left: 34%;
 }
