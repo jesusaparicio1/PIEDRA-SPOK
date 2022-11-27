@@ -29,7 +29,16 @@
     position: absolute;
     height: 100px;
     width: 100px;
-    background-color: rgb(255, 255, 255);
     margin-top: 15%;
     margin-left: 34%;
+    background-image: url("img/lizzar.gif");
+}
+.boton{
+    width: 150px;
+    height: 40px;
+    background-color: rgb(111, 85, 85);
+    color: burlywood;
+    margin-top: 40%;
+    margin-left: 44%;
+    border-radius: 25px;    
 }
